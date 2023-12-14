@@ -1,2 +1,2 @@
 # osp_prj
-This is repository of Ewha Market
+Ewha O! Soso market 입니다!
